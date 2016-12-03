@@ -1,17 +1,17 @@
-Introduction
+#Introduction
 
-Scope
+##Scope
 
 Itroduction section describing the application and the business requirements.
 
-Glossary
+##Glossary
 
 Define any domain-keywords user later on.
 
-Term 1
+**Term 1**
 
 Define term 1...
 
-Term 2
+**Term 2**
 
 Define term 2...
