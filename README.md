@@ -2,7 +2,7 @@
 
 ##Authors
 - Author 1: Mastorakis Emmanouil
-- Author 2: Georgiadis Mpampis
+- Author 2: Georgiadis Charalampos
 
 ##Abstract
 
