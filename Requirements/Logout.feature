@@ -1,7 +1,8 @@
 Feature: Log out of the system
   Background: 
             Given I have loged in successfully into the system
-            I want to log out to end my session and protect my personal info  
+            I want to log out 
+            So that i can end my session and protect my personal data
   
     Scenario: Successful Logout
             When I am navigating in the platform
