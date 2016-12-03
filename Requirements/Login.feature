@@ -1,7 +1,7 @@
-Feature : Log in to the system
+Feature: Log in to the system
   Background: 
-            Given: I am an authenticated user
-            And: I am at the Login page  
+            Given I am an authenticated user
+            And I am at the Login page  
   
     Scenario: Successful Login
             When I insert my correct Username and Password
