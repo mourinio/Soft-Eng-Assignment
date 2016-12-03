@@ -17,7 +17,7 @@ Feature: Log in to the system
             And I pres the Login butoon
             Then An error message comes up " Wrong Username or Password for 5 times in the row! Your account has been locked for 30 min"
             And The log in action is unsuccessfull
-            And The system doesn't allow the user to log in for the next 30 min for security reasons
+            And The system doesn't allow me to log in for the next 30 min for security reasons
           
   
   
