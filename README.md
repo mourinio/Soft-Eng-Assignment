@@ -4,7 +4,7 @@
 - Author 1: Mastorakis Emmanouil
 - Author 2: Georgiadis Charalampos
 
-##Abstract
+##Abstract (Περίληψη)
 
 (A summary of your project)
 
