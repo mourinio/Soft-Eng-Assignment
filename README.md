@@ -1,8 +1,8 @@
 # Title
 
 ##Authors
-- Author 1: Mastorakis Emmanouil
-- Author 2: Georgiadis Charalampos
+- Author 1: Μαστοράκης Εμμανουήλ
+- Author 2: Γεωργιάδης Χαράλαμπος
 
 ##Abstract 
 
