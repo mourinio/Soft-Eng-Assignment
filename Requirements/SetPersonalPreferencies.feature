@@ -18,5 +18,5 @@ Feature: Set Personal Preferences
             Then I am redirected to my Personal Preferencies page
             And I can select all Events' types that i like
             When I leave the page without having the "Save my preferencies" option
-            Then my preferencies are not set or changed
+            Then my preferencies are not set
     
